@@ -32,7 +32,7 @@ If this is set to an empty string, the link is removed.
 module.exports = {
   APP_NAME: 'AcidMod Exporter',
   WEBSITE: 'https://acidmod.github.io/exporter/',
-  COPYRIGHT_NOTICE: `Copyright (C) 2021-2024 Thomas Weber
+  COPYRIGHT_NOTICE: `None`
 
 The Source Code Form of this program is available under the terms of the
 Mozilla Public License, v. 2.0. You can obtain a copy of the license at
