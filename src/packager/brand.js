@@ -30,23 +30,23 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'TurboWarp Packager',
-  WEBSITE: 'https://packager.turbowarp.org/',
+  APP_NAME: 'AcidMod Exporter',
+  WEBSITE: 'https://acidmod.github.io/exporter/',
   COPYRIGHT_NOTICE: `Copyright (C) 2021-2024 Thomas Weber
 
 The Source Code Form of this program is available under the terms of the
 Mozilla Public License, v. 2.0. You can obtain a copy of the license at
 https://www.mozilla.org/en-US/MPL/2.0/.`,
-  ACCENT_COLOR: '#ff4c4c',
-  SOURCE_CODE: 'https://github.com/TurboWarp/packager',
+  ACCENT_COLOR: '#228B22',
+  SOURCE_CODE: 'https://github.com/AcidMod/exporter',
   FEEDBACK_PRIMARY: {
-    name: 'Scratch',
-    link: 'https://scratch.mit.edu/users/GarboMuffin/#comments'
+    name: 'h3l',
+    link: 'https://github.com/gvalue-04'
   },
   FEEDBACK_SECONDARY: {
-    name: 'GitHub',
-    link: 'https://github.com/TurboWarp/packager/issues'
+    name: 'AcidMod',
+    link: 'https://github.com/AcidMod'
   },
-  DONATE: 'https://github.com/sponsors/GarboMuffin',
+  DONATE: '',
   PRIVACY_POLICY: 'https://turbowarp.org/privacy.html',
 };
